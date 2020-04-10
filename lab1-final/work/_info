@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+valarm
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1534372221
+!i10b 1
+!s100 10OT=Yg@W@OHB2]:dB5BS1
+INL[n_l13UN0]0d7D8;5MM1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alarm_sv_unit
+S1
+Z2 dC:/Users/carolynn/Desktop/CSE140L/lab1-final
+Z3 w1534371253
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1534372221.000000
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv|
+!s101 -O0
+!i113 1
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vct_mod24
+R0
+Z6 !s110 1534372222
+!i10b 1
+!s100 A0m_moKIIW[b_LhzkaHfW2
+Ii?i;5i[QOE4?XWjbmhmD43
+R1
+!s105 ct_mod24_sv_unit
+S1
+R2
+R3
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z7 !s108 1534372222.000000
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv|
+!s101 -O0
+!i113 1
+R5
+vct_mod60
+R0
+R6
+!i10b 1
+!s100 ?gJ_<0QiTSX;0[mjzL7Bg1
+IJgePbGZEedm7C;gMh17<G0
+R1
+!s105 ct_mod60_sv_unit
+S1
+R2
+R3
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod60.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod60.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod60.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod60.sv|
+!s101 -O0
+!i113 1
+R5
+Xdisplay_tb_sv_unit
+R0
+R6
+!i10b 1
+!s100 3cdj:jhAcZom;U859>Z]=0
+IoGXGkKmWAS`eAIf9]kgN41
+VoGXGkKmWAS`eAIf9]kgN41
+!i103 1
+S1
+R2
+R3
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv|
+!s101 -O0
+!i113 1
+R5
+vlab1_tb
+R0
+DXx4 work 15 lab1_tb_sv_unit 0 22 gS^AToO3=hVF93RId9KWB0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 m[ZQ_]XBl9DlHg`O2X>YH1
+IYk97_L12P^ob[3IDVC1bC2
+!s105 lab1_tb_sv_unit
+S1
+R2
+Z8 w1534372180
+Z9 8C:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv
+Z10 FC:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv
+L0 3
+R4
+R7
+Z11 !s107 display_tb.sv|C:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv|
+!s101 -O0
+!i113 1
+R5
+Xlab1_tb_sv_unit
+R0
+VgS^AToO3=hVF93RId9KWB0
+r1
+!s85 0
+31
+!i10b 1
+!s100 P_zR9UFHRd[P>cco@Ig1i3
+IgS^AToO3=hVF93RId9KWB0
+!i103 1
+S1
+R2
+R8
+R9
+R10
+Fdisplay_tb.sv
+L0 1
+R4
+R7
+R11
+R12
+!s101 -O0
+!i113 1
+R5
+vlcd_int
+R0
+Z13 !s110 1534372223
+!i10b 1
+!s100 H@WfMcPLNJ1JR[CIVn=AH0
+ILSlNV;AH`QMm7?G2cX97k0
+R1
+!s105 lcd_int_sv_unit
+S1
+R2
+R3
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z14 !s108 1534372223.000000
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv|
+!s101 -O0
+!i113 1
+R5
+vstruct_diag
+R0
+R13
+!i10b 1
+!s100 6bKP9^GALODD6W0YG=KVm2
+IL:kW<2[<PLlBL`lOFk]5a1
+R1
+!s105 struct_diag_sv_unit
+S1
+R2
+R3
+8C:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv
+FC:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv|
+!s101 -O0
+!i113 1
+R5

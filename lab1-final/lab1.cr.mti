@@ -1,0 +1,43 @@
+C:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/alarm.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alarm
+
+Top level modules:
+	alarm
+
+} {} {}} C:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/lcd_int.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module lcd_int
+
+Top level modules:
+	lcd_int
+
+} {} {}} C:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/struct_diag.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module struct_diag
+
+Top level modules:
+	struct_diag
+
+} {} {}} C:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/lab1_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling package lab1_tb_sv_unit
+-- Compiling module lab1_tb
+
+Top level modules:
+	lab1_tb
+
+} {} {}} C:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/display_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv {1 {vlog -work work -sv -stats=none C:/Users/carolynn/Desktop/CSE140L/lab1-final/ct_mod24.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ct_mod24
+
+Top level modules:
+	ct_mod24
+
+} {} {}}
